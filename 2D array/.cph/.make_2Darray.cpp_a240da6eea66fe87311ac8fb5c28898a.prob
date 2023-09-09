@@ -1,0 +1,1 @@
+{"name":"Local: make_2Darray","url":"d:\\DSA\\cpp code\\2D array\\make_2Darray.cpp","tests":[{"id":1693830275258,"input":"3 3\n1 2 3 \n4 5 6 \n7 8 9\n5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\cpp code\\2D array\\make_2Darray.cpp","group":"local","local":true}
